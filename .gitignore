@@ -1,0 +1,7 @@
+/font
+/font.*
+*.dll
+*.lib
+/.obj
+/perf.cvs
+/res
